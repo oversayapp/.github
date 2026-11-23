@@ -31,4 +31,4 @@ Or download Oversay for Mac or Windows from [oversay.app](https://oversay.app).
 
 ---
 
-Built by [John Ryan](https://www.johnryan.io/) · [GitHub](https://github.com/jnyryan)
+Built by [John Ryan](https://johnryan.io/) · [GitHub](https://github.com/jnyryan)
